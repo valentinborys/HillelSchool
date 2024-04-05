@@ -36,3 +36,15 @@ else:
     print("\nВідповідь на 3-тє питання: не всі елементи мають значення більше 30")
 
 
+test = ["Test1", "Test2", "Test3", "Test4"]
+
+if "Test3" in test:
+    if "Test3" in test:
+        test[test.index("Test3")] = "HHH"
+
+print(test)
+
+
+
+
+
