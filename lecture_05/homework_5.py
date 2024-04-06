@@ -65,8 +65,8 @@ for car, details in car_data.items():
 print("\nРезультати пошуку автомобілю:")
 
 if found_cars:
-    found_cars_sorted = sorted(found_cars, key=lambda x: x[1][4], reverse = True)
-    for car, details in found_cars_sorted[:5]:  # Виводимо перші 5 елементів
+    found_cars_sorted = sorted(found_cars, key=lambda x: x[1][4], reverse=True)
+    for car, details in found_cars_sorted[:5]:
         print(f"Автомобіль: {car}: {str(details)}")
 else:
     print("Автомобілів за введеними параметрами пошуку не знайдено")
