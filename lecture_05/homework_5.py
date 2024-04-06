@@ -61,6 +61,7 @@ for car, details in car_data.items():
     if year >= year_input and engine_volume >= engine_volume_input and price <= price_input:
         found_cars.append((car, details))
 
+
 print("\nРезультати пошуку автомобілю:")
 
 if found_cars:
