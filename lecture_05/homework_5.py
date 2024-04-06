@@ -50,7 +50,7 @@ engine_volume_input = float(input())
 print("Введіть значення ціни авто:")
 price_input = int(input())
 
-search_criteria = f"\nЗадані критерії пошуку авто: {year_input} рік, {engine_volume_input} л, {price_input}$"
+search_criteria = f"\nКритерії пошуку авто: {year_input} рік, {engine_volume_input} л, {price_input}$"
 print(search_criteria)
 
 found_cars = []
@@ -61,11 +61,11 @@ for car, details in car_data.items():
     if year >= year_input and engine_volume >= engine_volume_input and price <= price_input:
         found_cars.append((car, details))
 
+print("\nРезультати пошуку автомобілю:")
 
-print("\nРезультати пошуку:")
-
-for car, details in found_cars:
-    print(f"Автомобіль: {car}: {str(details)}")
-
+if found_cars:
+    found_cars_sorted = sorted(found_cars, key=lambda x: x[1][4], reverse = True)
+    for car, details in found_cars_sorted[:5]:  # Виводимо перші 5 елементів
+        print(f"Автомобіль: {car}: {str(details)}")
 else:
-    print("Автомобілів за пошуком не знайдено")
+    print("Автомобілів за введеними параметрами пошуку не знайдено")
