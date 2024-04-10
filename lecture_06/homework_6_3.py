@@ -7,4 +7,5 @@ for string in lst1:
     if type(string) is str:
         lst2.append(string)
 
+
 print("Всі строки в списку: ", lst2)

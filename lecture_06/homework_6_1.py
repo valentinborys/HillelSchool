@@ -15,4 +15,5 @@ if len(set_unique) >= 10:
 else:
     print("Кількість унікальних символів менше десяти:", False)
 
+
 # print(set_unique)

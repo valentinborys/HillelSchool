@@ -7,8 +7,8 @@ for element in list:
     if element %2 == 0:
         new_list.append(element)
 
-sum = 0
 
+sum = 0
 for element in new_list:
     sum += element
 
