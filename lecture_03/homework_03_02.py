@@ -95,6 +95,7 @@ else:
 print("\nTask 10")
 """ Виведіть кількість слів останнього речення з adwentures_of_tom_sawer_sentences.
 """
+
 last_sentence_words = adventures_of_tom_sawyer_sentences[-1].split()
 word_count_last_sentence = len(last_sentence_words)
 print(f"Кількість слів у останньому реченні: {word_count_last_sentence}")

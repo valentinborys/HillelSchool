@@ -16,7 +16,6 @@ people_records = [
         ('Ethan', 'Anderson', 36, 'Product Manager', 'Phoenix')
     ]
 
-
 people_records.insert(0, ("Valentyn", "Borys", 26, "QA", "Lysychansk"))
 print("\nВідповідь на 1-ше питання:", people_records)
 
