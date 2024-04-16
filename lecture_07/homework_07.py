@@ -57,23 +57,36 @@ multiplication_table(5)
 # print("Середнє арифметичне:", sum_list/len_list)
 
 
-# task 4
-"""  Написати функцію, яка приймає рядок та повертає його у зворотному порядку.
-"""
-
-input_string = input("\nВведіть текст: ")
-
-def text(string):
-    reversed_string = string[::-1]
-    return reversed_string
-
-reversed_input = text(input_string)
-print("Рядок у зворотньому порядку:", reversed_input)
-
-# # task 5
-# """  Написати функцію, яка приймає список слів та повертає найдовше слово у списку.
+# # task 4
+# """  Написати функцію, яка приймає рядок та повертає його у зворотному порядку.
 # """
 #
+# input_string = input("\nВведіть текст: ")
+#
+# def text(string):
+#     reversed_string = string[::-1]
+#     return reversed_string
+#
+# reversed_input = text(input_string)
+# print("Рядок у зворотньому порядку:", reversed_input)
+
+# task 5
+"""  Написати функцію, яка приймає список слів та повертає найдовше слово у списку.
+"""
+
+text = str(input("\nВведіть слова: "))
+def the_most_long_word(text):
+    splite_text = text.split(" ")
+    longest_word = ""
+
+    for word in splite_text:
+        if  len(word) > len(longest_word):
+            longest_word = word
+
+    return longest_word
+
+print("Найдовше слово:", the_most_long_word(text))
+
 # # task 6
 # """  Написати функцію, яка приймає два рядки та повертає індекс першого входження другого рядка
 # у перший рядок, якщо другий рядок є підрядком першого рядка, та -1, якщо другий рядок
