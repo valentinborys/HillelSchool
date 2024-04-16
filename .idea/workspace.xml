@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_03/homework_03_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_03/homework_03_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_03/homework_03_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_03/homework_03_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_04/homework_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_04/homework_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_05/homework_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_05/homework_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_06/homework_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_06/homework_6_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_06/homework_6_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_06/homework_6_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/lecture_06/homework_6_2.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lecture_06/homework_6_3.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lecture_06/homework_6_4.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lecture_07/homework_07.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,19 +49,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.homework_07.executor": "Run",
     "Python.homework_5.executor": "Run",
     "Python.homework_6.executor": "Run",
+    "Python.homework_6_1 (1).executor": "Run",
     "Python.homework_6_1.executor": "Run",
     "Python.homework_6_2.executor": "Run",
     "Python.homework_6_3.executor": "Run",
     "Python.homework_6_4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework06"
+    "git-widget-placeholder": "homework07"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.homework_6_4">
-    <configuration name="homework_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.homework_07">
+    <configuration name="homework_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_05/homework_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_6_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_6_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\lenov\PycharmProjects\HillelSchool\lecture_06\homework_6_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_06/homework_6_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_07" />
+        <item itemvalue="Python.homework_6_1 (1)" />
         <item itemvalue="Python.homework_6_4" />
         <item itemvalue="Python.homework_6_3" />
         <item itemvalue="Python.homework_6_2" />
-        <item itemvalue="Python.homework_6_1" />
-        <item itemvalue="Python.homework_5" />
       </list>
     </recent_temporary>
   </component>

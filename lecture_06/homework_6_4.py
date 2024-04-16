@@ -15,4 +15,3 @@ for element in new_list:
 print("Вхідний список:", list)
 print("Список значень, які діляться на два:", new_list)
 print("Сума значень, які діляться на два:", sum)
-
