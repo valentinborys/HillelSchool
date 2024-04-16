@@ -60,14 +60,16 @@ multiplication_table(5)
 # task 4
 """  Написати функцію, яка приймає рядок та повертає його у зворотному порядку.
 """
-string = str(input("Введіть текст: "))
+
+input_string = input("\nВведіть текст: ")
 
 def text(string):
     reversed_string = string[::-1]
     return reversed_string
-    print()
 
-text("Hello")
+reversed_input = text(input_string)
+print("Рядок у зворотньому порядку:", reversed_input)
+
 # # task 5
 # """  Написати функцію, яка приймає список слів та повертає найдовше слово у списку.
 # """
