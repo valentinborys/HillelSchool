@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_07/homework_07_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_07/homework_07.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +67,11 @@
     "Python.homework_07_05.executor": "Run",
     "Python.homework_07_06.executor": "Run",
     "Python.homework_07_07.executor": "Run",
+    "Python.homework_07_08.executor": "Run",
     "Python.homework_07_09.executor": "Run",
     "Python.homework_07_10.executor": "Run",
     "Python.homework_07_11.executor": "Run",
+    "Python.homework_07_12.executor": "Run",
     "Python.homework_5.executor": "Run",
     "Python.homework_6.executor": "Run",
     "Python.homework_6_1 (1).executor": "Run",
@@ -97,8 +85,8 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.homework_07_07">
-    <configuration name="homework_07_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.homework_07_12">
+    <configuration name="homework_07_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_07_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_07_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_07_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_07_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_07_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_07_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_07_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_07_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework_07_07" />
-        <item itemvalue="Python.homework_07_06" />
-        <item itemvalue="Python.homework_07_05" />
-        <item itemvalue="Python.homework_07_04" />
-        <item itemvalue="Python.homework_07_03" />
+        <item itemvalue="Python.homework_07_12" />
+        <item itemvalue="Python.homework_07_11" />
+        <item itemvalue="Python.homework_07_10" />
+        <item itemvalue="Python.homework_07_09" />
+        <item itemvalue="Python.homework_07_08" />
       </list>
     </recent_temporary>
   </component>
