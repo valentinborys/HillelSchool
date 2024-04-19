@@ -5,7 +5,7 @@ for element in list:
         numbers = [int(num) for num in element.split(',')]
         total_sum = sum(numbers)
 
-        print(f'Сумма значень для строки "{element}" = {total_sum}')
+        print(f'Сума значень для строки "{element}" = {total_sum}')
 
     except ValueError as ve:
         print("Не можу це зробити:", ve)
