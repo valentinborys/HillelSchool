@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="" />
+    <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lecture_08/homework_08_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +45,7 @@
     <setting file="file://$PROJECT_DIR$/lecture_07/homework_07_10.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lecture_07/homework_07_11.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lecture_07/homework_07_12.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lecture_08/homework_08_01.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,6 +74,7 @@
     "Python.homework_07_10.executor": "Run",
     "Python.homework_07_11.executor": "Run",
     "Python.homework_07_12.executor": "Run",
+    "Python.homework_08_01.executor": "Run",
     "Python.homework_5.executor": "Run",
     "Python.homework_6.executor": "Run",
     "Python.homework_6_1 (1).executor": "Run",
@@ -83,29 +88,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.homework_07_12">
-    <configuration name="homework_07_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HillelSchool" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_07/homework_07_08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.homework_08_01">
     <configuration name="homework_07_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -194,6 +177,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="homework_08_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HillelSchool" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_08/homework_08_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -218,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_08_01" />
         <item itemvalue="Python.homework_07_12" />
         <item itemvalue="Python.homework_07_11" />
         <item itemvalue="Python.homework_07_10" />
         <item itemvalue="Python.homework_07_09" />
-        <item itemvalue="Python.homework_07_08" />
       </list>
     </recent_temporary>
   </component>
