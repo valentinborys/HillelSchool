@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture_09/homeworks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_09/test_homeworks09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture_10/test_homework10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_06/homework_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_06/homework_6_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +46,10 @@
     <setting file="file://$PROJECT_DIR$/lecture_07/homework_07_11.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lecture_07/homework_07_12.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lecture_08/homework_08_01.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lecture_09/homework_09.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lecture_09/homeworks.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lecture_09/test_homeworks09.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lecture_10/homework10.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lecture_10/test_homework10.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,10 +85,17 @@
     "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text.executor": "Run",
     "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text_positive.executor": "Run",
     "Python tests.Python tests for homeworks.TestHomeworkFunctions.test_sum.executor": "Run",
+    "Python tests.Python tests for test_homework10.TestLogEvent.executor": "Run",
+    "Python tests.Python tests for test_homework10.TestLogEvent.test_expired_logging.executor": "Run",
+    "Python tests.Python tests for test_homework10.TestLogEvent.test_success_logging.executor": "Run",
+    "Python tests.Python tests for test_homework10.TestLogin.test.executor": "Run",
     "Python tests.Python tests for test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero.executor": "Run",
+    "Python tests.Python tests in homework10.py.executor": "Run",
     "Python tests.Python tests in homework_09.py.executor": "Run",
+    "Python tests.Python tests in test_homework10.py.executor": "Run",
     "Python tests.Python tests in test_homeworks09.py.executor": "Run",
     "Python tests.Unittests for homework_09.TestHomeworkFunctions.test1.executor": "Run",
+    "Python.homework10.executor": "Run",
     "Python.homework_07.executor": "Run",
     "Python.homework_07_01.executor": "Run",
     "Python.homework_07_02.executor": "Run",
@@ -114,11 +121,38 @@
     "Python.loader.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework08",
+    "git-widget-placeholder": "homework09",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in test_homeworks09.py">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenov\PycharmProjects\HillelSchool\lecture_10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_homework10.TestLogEvent">
+    <configuration name="homework10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HillelSchool" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_10/homework10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -141,88 +175,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for lecture_09.test_homeworks09.TestHomeworkFunctions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_homework10.TestLogEvent" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;lecture_09.test_homeworks09.TestHomeworkFunctions&quot;" />
+      <option name="_new_target" value="&quot;test_homework10.TestLogEvent&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for lecture_09.test_homeworks09.TestHomeworkFunctions.test_filter_lowercase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_homework10.TestLogEvent.test_expired_logging" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;lecture_09.test_homeworks09.TestHomeworkFunctions.test_filter_lowercase&quot;" />
+      <option name="_new_target" value="&quot;test_homework10.TestLogEvent.test_expired_logging&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for lecture_09.test_homeworks09.TestHomeworkFunctions.test_filter_string_float" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_homework10.TestLogEvent.test_success_logging" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;lecture_09.test_homeworks09.TestHomeworkFunctions.test_filter_string_float&quot;" />
+      <option name="_new_target" value="&quot;test_homework10.TestLogEvent.test_success_logging&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_homework10.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_homeworks09.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="HillelSchool" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lecture_09/test_homeworks09.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lecture_10/test_homework10.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_homeworks09.py" />
-        <item itemvalue="Python tests.Python tests for test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero" />
-        <item itemvalue="Python tests.Python tests for lecture_09.test_homeworks09.TestHomeworkFunctions.test_filter_string_float" />
-        <item itemvalue="Python tests.Python tests for lecture_09.test_homeworks09.TestHomeworkFunctions" />
-        <item itemvalue="Python tests.Python tests for lecture_09.test_homeworks09.TestHomeworkFunctions.test_filter_lowercase" />
+        <item itemvalue="Python tests.Python tests for test_homework10.TestLogEvent" />
+        <item itemvalue="Python tests.Python tests in test_homework10.py" />
+        <item itemvalue="Python tests.Python tests for test_homework10.TestLogEvent.test_expired_logging" />
+        <item itemvalue="Python tests.Python tests for test_homework10.TestLogEvent.test_success_logging" />
+        <item itemvalue="Python.homework10" />
       </list>
     </recent_temporary>
   </component>
