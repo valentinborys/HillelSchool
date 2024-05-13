@@ -8,7 +8,7 @@ grades_2 = {'Анна Коваленко': 60, 'Олег Петров': 70, 'І�
 
 name = input("Введіть ім'я користувача: ")
 
-def x(grades_1, grades_2, name):
+def compare_mark(grades_1, grades_2, name):
     if name in grades_1 and name in grades_2:
         print(f"{name}: {grades_1[name] - grades_2[name]} (різниця між першою та другою оцінкою)")
     elif name in grades_1:
@@ -18,4 +18,4 @@ def x(grades_1, grades_2, name):
     else:
         print("Користувач" +" '"+ name +"' "+ "відсутній у обох словниках.")
 
-x(grades_1, grades_2, name)
+compare_mark(grades_1, grades_2, name)
