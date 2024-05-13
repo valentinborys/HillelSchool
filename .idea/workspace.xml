@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture_13/Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_13/Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_13/Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,7 @@
     "Python.loader.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework12",
+    "git-widget-placeholder": "homework13",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -149,7 +149,7 @@
       <recent name="C:\Users\lenov\PycharmProjects\HillelSchool\lecture_10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task2">
+  <component name="RunManager" selected="Python.Task">
     <configuration name="Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -284,8 +284,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task2" />
         <item itemvalue="Python.Task" />
+        <item itemvalue="Python.Task2" />
         <item itemvalue="Python.Task_3" />
         <item itemvalue="Python.Task_2 (1)" />
         <item itemvalue="Python.Task_1 (1)" />
