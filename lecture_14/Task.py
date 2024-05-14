@@ -6,7 +6,6 @@ class Employee:
         pass
 
 
-
 class Manager(Employee):
     def __init__(self, name, salary, department):
         self._name = name
@@ -39,7 +38,6 @@ class Developer(Employee):
         return self._programming_language
 
 
-
 class TeamLead(Manager, Developer):
     def __init__(self, name, salary, department, programming_language, team_size):
         Manager.__init__(self, name, salary, department)
@@ -48,7 +46,6 @@ class TeamLead(Manager, Developer):
 
     def team_size(self):
         return self._team_size
-
 
 
 team_lead = TeamLead("Валентин", 100000, "QA", "Python", 5)
