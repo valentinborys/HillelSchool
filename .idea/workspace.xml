@@ -148,7 +148,7 @@
       <recent name="C:\Users\lenov\PycharmProjects\HillelSchool\lecture_10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task (1)">
+  <component name="RunManager" selected="Python.Test">
     <configuration name="Task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -305,8 +305,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task (1)" />
         <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Task (1)" />
         <item itemvalue="Python.Task" />
         <item itemvalue="Python.Task_3" />
         <item itemvalue="Python.Task_2 (1)" />

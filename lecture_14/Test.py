@@ -8,4 +8,5 @@ assert hasattr(team_lead, 'department')
 assert hasattr(team_lead, 'programming_language')
 assert hasattr(team_lead, 'team_size')
 
+print("")
 print("Вітаю! Тест пройдено, всі атрибути в класі \"TeamLead\" є:)")
