@@ -6,133 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/Candara.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_68.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/setup.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_15/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HillelSchool" beforeDir="false" afterPath="$PROJECT_DIR$/HillelSchool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HillelSchool/lecture_15/randominfo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HillelSchool/lecture_15/randominfo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HillelSchool/lecture_15/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/HillelSchool/lecture_15/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +28,7 @@
         <entry key="$PROJECT_DIR$" value="homework17" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HillelSchool" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Scripts/activate" root0="SKIP_INSPECTION" />
@@ -269,10 +145,11 @@
     &quot;Python.homework_6_4.executor&quot;: &quot;Run&quot;,
     &quot;Python.homeworks.executor&quot;: &quot;Run&quot;,
     &quot;Python.loader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;homework15&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
@@ -285,50 +162,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.test">
-    <configuration name="Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HillelSchool" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\lenov\PycharmProjects\HillelSchool\lecture_13\Task.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HillelSchool" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_14/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -417,6 +250,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HillelSchool" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HillelSchool/lecture_15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HillelSchool/lecture_15/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -442,10 +297,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.homework17" />
         <item itemvalue="Python.homework16" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -466,6 +321,9 @@
       <updated>1711723167862</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
