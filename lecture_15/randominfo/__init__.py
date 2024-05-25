@@ -75,12 +75,14 @@ def get_gender(first_name):
 def get_country(first_name = None):
 	countryFile = csv.reader(open(full_path('data.csv'), 'r'))
 	country = ""
-	if first_name != None:
-		for data in countryFile:
-			if data[0] != '' and data[0] == first_name:
-				country = data[3]
-				break
-		if country == "":
+	# if first_name != None:
+	# 	for data in countryFile:
+	# 		if data[0] != '' and data[0] == first_name:
+	# 			print("")
+	# 			# country = data[3]
+	# 			break
+
+	if country == "":
 			print("Specified user data is not available. Tip: Generate random country.")
 	else:
 		filteredData = []
@@ -259,8 +261,8 @@ def get_birthdate(startAge = None, endAge = None, _format = "%d %b, %Y"):
 
 def get_address():
 	full_addr = []
-	addrParam = ['street', 'landmark', 'area', 'city', 'state', 'country', 'pincode']
-	for i in range(5,12):
+	addrParam = ['street address', 'landmark', 'area', 'city', 'state', 'pincode']
+	for i in range(4,10):
 		addrFile = csv.reader(open(full_path('data.csv'), 'r'))
 		allAddrs = []
 		for addr in addrFile:
