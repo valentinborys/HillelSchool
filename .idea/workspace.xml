@@ -5,8 +5,134 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture_17/homework17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/Candara.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/female_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/randominfo/images/people/male_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_15/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,83 +199,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_compare_words.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_count_unique_characters.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_long_element.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_lowercase.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_string_float.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_two_element.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_large_number.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_negative.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_zero.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_reverse_text.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum_positive.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text_positive.executor": "Run",
-    "Python tests.Python tests for homeworks.TestHomeworkFunctions.test_sum.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogEvent.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogEvent.test_expired_logging.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogEvent.test_success_logging.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogin.test.executor": "Run",
-    "Python tests.Python tests for test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero.executor": "Run",
-    "Python tests.Python tests in homework10.py.executor": "Run",
-    "Python tests.Python tests in homework_09.py.executor": "Run",
-    "Python tests.Python tests in test_homework10.py.executor": "Run",
-    "Python tests.Python tests in test_homeworks09.py.executor": "Run",
-    "Python tests.Unittests for homework_09.TestHomeworkFunctions.test1.executor": "Run",
-    "Python.Task (1).executor": "Run",
-    "Python.Task 2.executor": "Run",
-    "Python.Task 3.executor": "Run",
-    "Python.Task.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task_1 (1).executor": "Run",
-    "Python.Task_2 (1).executor": "Run",
-    "Python.Task_2.executor": "Run",
-    "Python.Task_3.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.Test_1.executor": "Run",
-    "Python.Test_2.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.homework10.executor": "Run",
-    "Python.homework16.executor": "Run",
-    "Python.homework17.executor": "Run",
-    "Python.homework_07.executor": "Run",
-    "Python.homework_07_01.executor": "Run",
-    "Python.homework_07_02.executor": "Run",
-    "Python.homework_07_03.executor": "Run",
-    "Python.homework_07_04.executor": "Run",
-    "Python.homework_07_05.executor": "Run",
-    "Python.homework_07_06.executor": "Run",
-    "Python.homework_07_07.executor": "Run",
-    "Python.homework_07_08.executor": "Run",
-    "Python.homework_07_09.executor": "Run",
-    "Python.homework_07_10.executor": "Run",
-    "Python.homework_07_11.executor": "Run",
-    "Python.homework_07_12.executor": "Run",
-    "Python.homework_08_01.executor": "Run",
-    "Python.homework_11 (1).executor": "Run",
-    "Python.homework_11.executor": "Run",
-    "Python.homework_5.executor": "Run",
-    "Python.homework_6.executor": "Run",
-    "Python.homework_6_1 (1).executor": "Run",
-    "Python.homework_6_1.executor": "Run",
-    "Python.homework_6_2.executor": "Run",
-    "Python.homework_6_3.executor": "Run",
-    "Python.homework_6_4.executor": "Run",
-    "Python.homeworks.executor": "Run",
-    "Python.loader.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework15",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_compare_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_count_unique_characters.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_long_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_lowercase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_string_float.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_two_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_large_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_reverse_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homeworks.TestHomeworkFunctions.test_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogEvent.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogEvent.test_expired_logging.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogEvent.test_success_logging.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogin.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in homework10.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in homework_09.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_homework10.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_homeworks09.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Unittests for homework_09.TestHomeworkFunctions.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_08_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_11 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeworks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homework15&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lenov\PycharmProjects\HillelSchool" />
