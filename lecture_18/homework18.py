@@ -1,10 +1,9 @@
 import requests
 
-# URL и параметры запроса к API
 url = 'https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos'
 params = {'sol': 1000, 'camera': 'fhaz', 'api_key': 'DEMO_KEY'}
 
-response = requests.get(url, params=params)
+response = requests.get(url, params)
 photos = response.json()
 print(photos)
 
