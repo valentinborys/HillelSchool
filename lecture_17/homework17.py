@@ -16,7 +16,7 @@ def fibonacci(n):
         yield a
         a, b = b, a + b
 
-n = 10
+n = 200
 for num in fibonacci(n):
     print(num)
 
