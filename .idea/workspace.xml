@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_19/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_19/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_19/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_19/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,87 +77,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_compare_words.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_count_unique_characters.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_long_element.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_lowercase.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_string_float.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_two_element.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_large_number.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_negative.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_zero.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_reverse_text.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum_positive.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text.executor": "Run",
-    "Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text_positive.executor": "Run",
-    "Python tests.Python tests for homeworks.TestHomeworkFunctions.test_sum.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogEvent.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogEvent.test_expired_logging.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogEvent.test_success_logging.executor": "Run",
-    "Python tests.Python tests for test_homework10.TestLogin.test.executor": "Run",
-    "Python tests.Python tests for test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero.executor": "Run",
-    "Python tests.Python tests in homework10.py.executor": "Run",
-    "Python tests.Python tests in homework_09.py.executor": "Run",
-    "Python tests.Python tests in test_homework10.py.executor": "Run",
-    "Python tests.Python tests in test_homeworks09.py.executor": "Run",
-    "Python tests.Unittests for homework_09.TestHomeworkFunctions.test1.executor": "Run",
-    "Python.Task (1).executor": "Run",
-    "Python.Task 2.executor": "Run",
-    "Python.Task 3.executor": "Run",
-    "Python.Task.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task_1 (1).executor": "Run",
-    "Python.Task_2 (1).executor": "Run",
-    "Python.Task_2.executor": "Run",
-    "Python.Task_3.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.Test_1.executor": "Run",
-    "Python.Test_2.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.app (1).executor": "Run",
-    "Python.homework10.executor": "Run",
-    "Python.homework16.executor": "Run",
-    "Python.homework17.executor": "Run",
-    "Python.homework18.executor": "Run",
-    "Python.homework_07.executor": "Run",
-    "Python.homework_07_01.executor": "Run",
-    "Python.homework_07_02.executor": "Run",
-    "Python.homework_07_03.executor": "Run",
-    "Python.homework_07_04.executor": "Run",
-    "Python.homework_07_05.executor": "Run",
-    "Python.homework_07_06.executor": "Run",
-    "Python.homework_07_07.executor": "Run",
-    "Python.homework_07_08.executor": "Run",
-    "Python.homework_07_09.executor": "Run",
-    "Python.homework_07_10.executor": "Run",
-    "Python.homework_07_11.executor": "Run",
-    "Python.homework_07_12.executor": "Run",
-    "Python.homework_08_01.executor": "Run",
-    "Python.homework_11 (1).executor": "Run",
-    "Python.homework_11.executor": "Run",
-    "Python.homework_5.executor": "Run",
-    "Python.homework_6.executor": "Run",
-    "Python.homework_6_1 (1).executor": "Run",
-    "Python.homework_6_1.executor": "Run",
-    "Python.homework_6_2.executor": "Run",
-    "Python.homework_6_3.executor": "Run",
-    "Python.homework_6_4.executor": "Run",
-    "Python.homeworks.executor": "Run",
-    "Python.loader.executor": "Run",
-    "Python.test (1).executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework19",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_compare_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_count_unique_characters.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_long_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_lowercase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_string_float.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_filter_two_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_large_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_multiplication_table_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_reverse_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_sum_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_text_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for homeworks.TestHomeworkFunctions.test_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogEvent.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogEvent.test_expired_logging.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogEvent.test_success_logging.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homework10.TestLogin.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homeworks09.TestHomeworkFunctions.test_multiplication_table_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in homework10.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in homework_09.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_homework10.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_homeworks09.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Unittests for homework_09.TestHomeworkFunctions.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_07_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_08_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_11 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_6_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeworks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homework19&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lenov\PycharmProjects\HillelSchool" />
@@ -167,7 +166,7 @@
       <recent name="C:\Users\lenov\PycharmProjects\HillelSchool\lecture_10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (1)">
+  <component name="RunManager" selected="Python.test (1)">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
@@ -278,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_15/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_19/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.homework18" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.homework17" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
