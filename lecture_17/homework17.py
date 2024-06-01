@@ -20,10 +20,13 @@ def fibonacci(n):
         yield a
         a, b = b, a + b
 
-n = 200
-for num in fibonacci(n):
+number = 200
+for num in fibonacci(number):
     print(num)
 print("")
+
+
+
 
 # Ітератори:
 # Реалізуйте ітератор для зворотного виведення елементів списку.
@@ -58,20 +61,17 @@ print("TASK 5")
 
 def log_function_call(func):
     def wrapper(*args, **kwargs):
-        print(f"Визвана функція {func.__name__} з аргументами: аргументи={args}, kwargs={kwargs}")
+        print(f"Виклик функції {func.__name__} з аргументами: {args}, {kwargs}")
         result = func(*args, **kwargs)
-        print(f"{func.__name__} returned: {result}")
-
+        print(f"Функція {func.__name__} повертає: {result}")
         return result
-
     return wrapper
 
 @log_function_call
 def add(a, b):
     return a + b
 
-result = add("ЕУЫЕ")
-
+result = add(5, 3)
 
 # Створіть декоратор, який перехоплює та обробляє винятки, які виникають в ході виконання функції.
 def exception_handler(func):
@@ -79,7 +79,7 @@ def exception_handler(func):
         try:
             return func(*args, **kwargs)
         except Exception as e:
-            print(f"Exception occurred in {func.__name__}: {e}")
+            print(f"Виняток у функції {func.__name__}: {e}")
             return None
     return wrapper
 
@@ -88,6 +88,5 @@ def divide(a, b):
     return a / b
 
 result = divide(5, 0)
-
 result = divide(10, 2)
 print(result)
