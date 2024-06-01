@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bbe9f9-01d4-441a-a1c7-9ee03e68275f" name="Changes" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/lecture_17/homework17.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_17/homework17.py" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lecture_19/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_19/test.py" afterDir="false" />
+>>>>>>> 2ac29af37b765c8e874b30a17978a59dcf882181
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework17" />
+        <entry key="$PROJECT_DIR$" value="homework19" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +83,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+<<<<<<< HEAD
+=======
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+>>>>>>> 2ac29af37b765c8e874b30a17978a59dcf882181
     &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_compare_words.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for homework_09.TestHomeworkFunctions.test_count_unique_characters.executor&quot;: &quot;Run&quot;,
@@ -120,11 +127,17 @@
     &quot;Python.Test_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+<<<<<<< HEAD
+    &quot;Python.homework10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework17.executor&quot;: &quot;Run&quot;,
+=======
     &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.homework10.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework16.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework17.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework18.executor&quot;: &quot;Run&quot;,
+>>>>>>> 2ac29af37b765c8e874b30a17978a59dcf882181
     &quot;Python.homework_07.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework_07_01.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework_07_02.executor&quot;: &quot;Run&quot;,
@@ -150,11 +163,18 @@
     &quot;Python.homework_6_4.executor&quot;: &quot;Run&quot;,
     &quot;Python.homeworks.executor&quot;: &quot;Run&quot;,
     &quot;Python.loader.executor&quot;: &quot;Run&quot;,
+<<<<<<< HEAD
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homework17&quot;,
+=======
     &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;homework19&quot;,
+>>>>>>> 2ac29af37b765c8e874b30a17978a59dcf882181
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
@@ -166,8 +186,13 @@
       <recent name="C:\Users\lenov\PycharmProjects\HillelSchool\lecture_10" />
     </key>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.homework17">
+    <configuration name="Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
   <component name="RunManager" selected="Python.test (1)">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 2ac29af37b765c8e874b30a17978a59dcf882181
       <module name="HillelSchool" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,11 +326,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Python.homework17" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.homework16" />
+        <item itemvalue="Python.Test" />
+=======
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.homework18" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.homework17" />
+>>>>>>> 2ac29af37b765c8e874b30a17978a59dcf882181
       </list>
     </recent_temporary>
   </component>
