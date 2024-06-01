@@ -20,10 +20,9 @@ def fibonacci(n):
         yield a
         a, b = b, a + b
 
-number = 200
-for num in fibonacci(number):
-n = 200
-for num in fibonacci(n):
+
+num = 200
+for num in fibonacci(num):
     print(num)
 print("")
 
