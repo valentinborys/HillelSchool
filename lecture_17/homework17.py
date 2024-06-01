@@ -22,6 +22,8 @@ def fibonacci(n):
 
 number = 200
 for num in fibonacci(number):
+n = 200
+for num in fibonacci(n):
     print(num)
 print("")
 
