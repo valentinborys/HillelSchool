@@ -89,12 +89,6 @@ for x in courses:
 
 print("")
 course = int(input("Тепер обери код курсу з вищенаведених данних: "))
-
-
-courses = ["1: Python Programming", "2: Data Science", "3: Web Development", "4: Database Systems", "5: Machine Learning"]
-for x in courses:
-    print(x)
-
 print("")
 
 add_student_and_enroll(id, name, surname, email, course)
@@ -143,6 +137,7 @@ if student:
     print("")
 else:
     print("Студента з таким ID не знайдено.")
+    print("")
 
 
 
@@ -155,9 +150,11 @@ if student:
     student.last_name = str(input("Введіть нове прівзище студента: "))
     student.email = str(input('Введіть нову пошту студента: '))
     session.commit()
-    print("Дані студента успішно оновлені")
+    print("")
+    print("Вітаю! Дані студента успішно оновлені")
 else:
     print("Студента з таким ID не знайдено")
+    print("")
 
 
 
