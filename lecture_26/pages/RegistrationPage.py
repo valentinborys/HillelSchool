@@ -31,7 +31,7 @@ class RegistrationPage(BasePage):
         self.element_is_clickable(Locators.REGISTRATION_BUTTON).click()
         self.element_is_visible(Locators.NAME_FIELD).send_keys("Valentyn")
         self.element_is_visible(Locators.LAST_NAME_FIELD).send_keys("Test")
-        self.element_is_visible(Locators.EMAIL_FIELD).send_keys("valentyn123@test.com")
+        self.element_is_visible(Locators.EMAIL_FIELD).send_keys("valentyn12345@test.com")
         self.element_is_visible(Locators.PASSWORD_FIELD).send_keys("123123Qwe")
         self.element_is_visible(Locators.RE_ENTER_PASSWORD_FIELD).send_keys("123123Qwe")
         self.element_is_clickable(Locators.REGISTER_BUTTON).click()
