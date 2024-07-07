@@ -27,7 +27,5 @@ def test_tracking():
         assert status_message.text == 'Отримана', f"Очікуємий статус: 'Отримана', але актуальний статус: '{status_message.text}'"
         print("Посилка отримана")
 
-        time.sleep(1)
-
     finally:
         driver.quit()
