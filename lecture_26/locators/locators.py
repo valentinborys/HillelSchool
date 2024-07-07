@@ -1,20 +1,14 @@
-import driver
 from selenium.webdriver.common.by import By
 
 
 class Locators:
-    # Main page
     SIGN_IN_BUTTON = (By.XPATH, "//*[@class='btn btn-outline-white header_signin']")
+    REGISTRATION_BUTTON = (By.XPATH, "//*[text()='Registration']")
+    NAME_FIELD = (By.ID, "signupName")
+    LAST_NAME_FIELD = (By.ID, "signupLastName")
+    EMAIL_FIELD = (By.ID, "signupEmail")
+    PASSWORD_FIELD = (By.ID, "signupPassword")
+    RE_ENTER_PASSWORD_FIELD = (By.ID, "signupRepeatPassword")
+    REGISTER_BUTTON = (By.XPATH, "//*[@class='btn btn-primary']")
+    GARAGE = (By.XPATH, "(//*[text()='Garage'])[1]")
 
-    # Log in pop-up
-    EMAIL_BUTTON = "(//*[@class='form-control ng-untouched ng-pristine ng-invalid'])[1]"
-    PASSWORD_BUTTON = "(//*[@class='form-control ng-untouched ng-pristine ng-invalid'])[2]"
-    REGISTRATION_BUTTON = "//*[text()='Registration']"
-    LOGIN_BUTTON = "//*[text()='Login']"
-
-    # Registration pop-up
-    NAME_FIELD = "(//*[@class='form-control ng-untouched ng-pristine ng-invalid'])[1]"
-    LAST_NAME_FIELD = "(//*[@class='form-control ng-untouched ng-pristine ng-invalid'])[2]"
-    EMAIL_FIELD = "(//*[@class='form-control ng-untouched ng-pristine ng-invalid'])[3]"
-    PASSWORD_FIELD = "(//*[@class='form-control ng-untouched ng-pristine ng-invalid'])[4]"
-    RE_ENTER_PASSWORD_FIELD = "(//*[@class='form-control ng-untouched ng-pristine ng-invalid'])[5]"
