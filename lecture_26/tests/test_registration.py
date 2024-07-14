@@ -5,6 +5,7 @@ from lecture_26.locators.locators import Locators
 from lecture_26.pages.RegistrationPage import RegistrationPage
 
 
+
 @pytest.fixture
 def setup():
     registration_page = RegistrationPage()
