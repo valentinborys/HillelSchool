@@ -9,6 +9,14 @@ pipeline {
             }
         }
 
+                stage('Install Dependencies') {
+
+        steps {
+            // Перевірка
+            sh 'python --version'
+        }
+    }
+
         stage('Install Dependencies') {
             steps {
                 // Встановлення залежностей проекту
