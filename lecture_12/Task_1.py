@@ -9,7 +9,6 @@ class Student:
         self.average_mark = new_avarage_mark
 
 
-
 student = Student("Борис", "Валентин", 26, 80)
 
 print(f"Ім'я та прізвище: {student.name} {student.surname}")

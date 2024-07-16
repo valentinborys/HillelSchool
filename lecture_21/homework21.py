@@ -4,6 +4,7 @@ from sqlalchemy.orm import declarative_base, sessionmaker, relationship
 DATABASE_URL = "postgresql+psycopg2://postgres:Gladiatorr05061518@127.0.0.1:5432/test"
 Base = declarative_base()
 
+
 class Student(Base):
     __tablename__ = 'Students'
     student_id = Column(Integer, primary_key=True)
@@ -12,11 +13,13 @@ class Student(Base):
     email = Column(String(100))
     enrollments = relationship('Enrollment', back_populates='student')
 
+
 class Course(Base):
     __tablename__ = 'Courses'
     course_id = Column(Integer, primary_key=True)
     course_name = Column(String(100))
     enrollments = relationship('Enrollment', back_populates='course')
+
 
 class Enrollment(Base):
     __tablename__ = 'Enrollments'
@@ -26,10 +29,12 @@ class Enrollment(Base):
     student = relationship('Student', back_populates='enrollments')
     course = relationship('Course', back_populates='enrollments')
 
+
 engine = create_engine(DATABASE_URL)
 Session = sessionmaker(bind=engine)
 
 Base.metadata.create_all(engine)
+
 
 def add_course(course_id, course_name):
     session = Session()
@@ -44,6 +49,7 @@ def add_course(course_id, course_name):
         print(f"Виникла помилка при додаванні курсу: {e}")
     finally:
         session.close()
+
 
 def add_student_and_enroll(student_id, first_name, last_name, email, course_id):
     session = Session()
